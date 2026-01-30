@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋  
+**AI for Clinical**
 
-<!--
-**brufino/brufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that turn complex healthcare data into tools that help teams make better decisions — from clinical development to real-world insights.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I Use Often
+💻 Languages & Data
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" /> </p>
+🤖 ML / AI
+<p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=black" /> <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Graph%20ML-6E40C9?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> </p>
+☁️ Data & Cloud
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+⚙️ Engineering
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/APIs-FF6F61?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
+---
+
+## 📊 Areas of Interest
+
+- Clinical trial AI  
+- Foundation models for healthcare  
+- Knowledge graphs in biomedicine  
+- Patient similarity & digital twins  
+- AI strategy in pharma & biotech  
+
+---
+
+## 📌 Current Focus
+
+Right now I’m especially interested in:
+
+- Scaling **clinical foundation models** across disease areas  
+- Blending **real-world data + trial data** for better decision support  
+- Building **agentic AI systems** over complex biomedical data  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Working at the intersection of **AI, healthcare, and product**
+- 🧪 Always happy to talk about clinical ML, platforms/apps, and applied AI
+- 🇨🇦 Based in Toronto
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brufino&show_icons=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brufino&layout=compact" height="150" />
+</p>
+
+---
+
+_“Build things that make hard decisions easier.”_
